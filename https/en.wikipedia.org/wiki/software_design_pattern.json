@@ -1,0 +1,24 @@
+{
+	"title": "Шаблоны проектирования",
+	"terms": [
+			"singleton",
+			"factory",
+			"wrapper",
+			"bridge",
+			"strategy",
+			"decorator",
+			"lazy load",
+			"builder",
+			"composit",
+			"proxy",
+			"iterator",
+			"active record",
+			"MVC",
+			"behavior",
+			"mixin",
+			"filters",
+			"registry",
+			"анти-патерны"	
+		]
+}
+			
