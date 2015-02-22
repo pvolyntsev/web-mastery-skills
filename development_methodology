@@ -1,0 +1,18 @@
+{
+	"title": "Методология разработки",
+	"terms": [
+			"Waterfall",
+			"Agile",
+			"Scrum",
+			"Kanban",
+			"XP",
+			"TDD",
+			"BDD",
+			"DDD",
+			"FDD",
+			"CASE",
+			"CodeFix",
+			"code-review"	
+		]
+}
+			
