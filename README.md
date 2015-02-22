@@ -1,6 +1,7 @@
 # web-mastery-terms
-List of terms, techniques and technologies you should know and use if you are going to be a master of web-development
-Список терминов, методов и технологий, который ты должен знать и использовать, если собираешься быть мастером веб-разработки
+List of terms, techniques and technologies you should know and use if you are going to be a master of web-development.
+
+Список терминов, методов и технологий, который ты должен знать и использовать, если собираешься быть мастером веб-разработки.
 
 Самый эффективный способ повысить свой уровень - это изучать новые технологии и решать практические задачи.
 
