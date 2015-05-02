@@ -1,4 +1,5 @@
 {
+	"chapter": "common_knowledge",
 	"title": "Шаблоны проектирования",
 	"terms": [
 			"singleton",
