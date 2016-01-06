@@ -1,25 +1,26 @@
 {
-	"chapter": "common_knowledge",
-	"title": "Шаблоны проектирования",
-	"terms": [
-			"singleton",
-			"factory",
-			"wrapper",
-			"bridge",
-			"strategy",
-			"decorator",
-			"lazy load",
-			"builder",
-			"composit",
-			"proxy",
-			"iterator",
-			"active record",
-			"MVC",
-			"behavior",
-			"mixin",
-			"filters",
-			"registry",
-			"анти-патерны"	
-		]
+  "version": "1.0.0",
+  "key": "software_design_pattern",
+  "type": "common",
+  "title": "Шаблоны проектирования",
+  "terms": [
+    "singleton",
+    "factory",
+    "wrapper",
+    "bridge",
+    "strategy",
+    "decorator",
+    "lazy load",
+    "builder",
+    "composit",
+    "proxy",
+    "iterator",
+    "active record",
+    "MVC",
+    "behavior",
+    "mixin",
+    "filters",
+    "registry",
+    "анти-патерны"
+  ]
 }
-			

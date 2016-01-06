@@ -1,19 +1,20 @@
 {
-	"chapter": "common_knowledge",
-	"title": "Методология разработки",
-	"terms": [
-			"Waterfall",
-			"Agile",
-			"Scrum",
-			"Kanban",
-			"XP",
-			"TDD",
-			"BDD",
-			"DDD",
-			"FDD",
-			"CASE",
-			"CodeFix",
-			"code-review"	
-		]
+  "version": "1.0.0",
+  "key": "development_methodology",
+  "type": "common",
+  "title": "Методология разработки",
+  "terms": [
+    "Waterfall",
+    "Agile",
+    "Scrum",
+    "Kanban",
+    "XP",
+    "TDD",
+    "BDD",
+    "DDD",
+    "FDD",
+    "CASE",
+    "CodeFix",
+    "code-review"
+  ]
 }
-			
