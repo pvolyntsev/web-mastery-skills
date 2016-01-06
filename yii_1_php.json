@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "key": "yii_1_php",
+  "type": "php",
+  "title": "Фреймворк Yii 1.x (PHP)",
+  "terms": [
+    "controller",
+    "action",
+    "model",
+    "view",
+    "form",
+    "ADO",
+    "SQL",
+    "ActiveRecord",
+    "module",
+    "extension",
+    "component",
+    "configuration",
+    "partial view",
+    "widget",
+    "widget view",
+    "renderer",
+    "cookie",
+    "session",
+    "database",
+    "cache",
+    "rest"
+  ]
+}

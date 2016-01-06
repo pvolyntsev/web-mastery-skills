@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "key": "data_formats",
+  "type": "common",
+  "title": "Форматы данных",
+  "terms": [
+    "txt",
+    "tsv",
+    "csv",
+    "sql",
+    "ini",
+    "json",
+    "cson",
+    "yaml",
+    "xml",
+    "html",
+    "binary format",
+    "proprietary format"
+  ]
+}
