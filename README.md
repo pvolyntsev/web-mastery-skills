@@ -28,7 +28,7 @@
 * ИЛИ пришли мне лично через [контакты](http://copist.ru/about)
 
 ### Заказать дополниение ("фичу", "фишку") к опроснику, интегрировать с чем-то
-* [Опиши идею или требования](https://github.com/pvolyntsev/web-mastery-skills/issues/new?labels=request)
+* [Опиши идею или требования](https://github.com/pvolyntsev/web-mastery-skills/issues/new?labels=enhancement)
 * ИЛИ пришли мне лично через [контакты](http://copist.ru/about)
 
 ### Хочешь добавить раздел в опросник или термины в существущие темы?
