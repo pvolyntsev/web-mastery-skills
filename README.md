@@ -20,24 +20,22 @@
 ## Дополнение опросника
 
 ### Задать вопрос
-* Опиши её в [issue](https://github.com/pvolyntsev/web-mastery-skills/issues/new?labels=question)
+* [Задай вопрос](https://github.com/pvolyntsev/web-mastery-skills/issues/new?labels=question)
 * ИЛИ пришли мне лично через [контакты](http://copist.ru/about)
 
 ### Исправить ошибку или неточность
-* Опиши её в [issue](https://github.com/pvolyntsev/web-mastery-skills/issues/new?labels=bug)
+* [Опиши неточность](https://github.com/pvolyntsev/web-mastery-skills/issues/new?labels=bug)
 * ИЛИ пришли мне лично через [контакты](http://copist.ru/about)
 
 ### Заказать дополниение ("фичу", "фишку") к опроснику, интегрировать с чем-то
-* Создай задачу в [issue](https://github.com/pvolyntsev/web-mastery-skills/issues/new?labels=request)
+* [Опиши идею или требования](https://github.com/pvolyntsev/web-mastery-skills/issues/new?labels=request)
 * ИЛИ пришли мне лично через [контакты](http://copist.ru/about)
 
 ### Хочешь добавить раздел в опросник или термины в существущие темы?
-
-1 Зайди в опросник <http://up.uptlo.com/>, авторизуйся, создай новую тему
-2 ИЛИ Зайди в опросник <http://up.uptlo.com/>, авторизуйся, сделай форк существующей темы, внеси изменения
-3 Опубликуй "форкнутую" тему
+* Зайди в опросник <http://up.uptlo.com/>, авторизуйся, создай новую тему
+* ИЛИ Зайди в опросник <http://up.uptlo.com/>, авторизуйся, сделай форк существующей темы, внеси изменения
+* Опубликуй "форкнутую" тему
 
 # Поддержать проект
-
 * Сделай отзыв проекте <http://up.uptlo.com/> в социальных сетях
 * (Поддержать проект материально)[https://yoomoney.ru/fundraise/bXEZRAFZ0JE.230311]
